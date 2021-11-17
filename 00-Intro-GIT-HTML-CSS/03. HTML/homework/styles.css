@@ -1,20 +1,28 @@
-            h1{
-                color: royalblue
-            }
+h1{
+   color: royalblue
+}
 
-            img {
-                width: 400px;
-            }
+img {
+   width: 400px;
+}
 
-            #thirdDiv{
-                height: 600px;
-                width: 500px;
-                background-color: salmon;
-                padding: 50px;
-                border: 2px solid red
-            }
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: salmon;
+    padding: 50px;
+    border: 2px solid red
+}
 
-            #spanId{
-                font-size: 18px;
-                margin: 50px;
-            }
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+            
+body{
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTOi6kDbbbRztMNT2S961jhkoAEx28xehLw&usqp=CAU');
+}
+
+div{
+    align-content: center;
+}
